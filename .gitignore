@@ -1,0 +1,5 @@
+# Definindo quais arquivos não irão ser puxados para o repositório git ou github na hora de salvar
+# Isso é feito pois normalmente, esses tipos de arquivos são salvos apenas localmente
+
+node_modules
+.env
